@@ -14,3 +14,5 @@ I take no responsibility for any problem, Any changes made is on your own risk !
 * Clean your the browser cache
 
 And that's all
+
+Tested on SuiteCRM Version 7.11.13
