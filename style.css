@@ -36085,3 +36085,7 @@ input[type=email].form-control {
 table.view {
     border: 1px solid #d7e3fa !important; 
 }
+#reminders #reminder_view .col {
+    float: right !important;
+    padding-left: 15px !important;
+}
